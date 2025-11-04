@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ## 📈 Mon Activité GitHub
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Prince637-boo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Prince637-boo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince637-boo&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince637-boo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
